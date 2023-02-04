@@ -1,0 +1,16 @@
+{
+  "label_action": "Etykieta",
+  "label_title": "Etykieta",
+  "message": "Wiadomość",
+  "open_new_tab_action": "Otwórz w nowej zakładce",
+  "parent": "Rodzic",
+  "reactions": "Reakcje",
+  "report_action": "Zgłoś",
+  "report_placeholder": "Dlaczego ta wiadomość powinna zostać rozpatrzona?",
+  "report_title": "Zgłoś",
+  "send_report": "Wyślij",
+  "submit_labels": "Dodaj",
+  "view_user": "Zobacz użytkownika",
+  "recent_messages": "Niedawne wiadomości",
+  "your_recent_messages": "Twoje niedawne wiadomości"
+}

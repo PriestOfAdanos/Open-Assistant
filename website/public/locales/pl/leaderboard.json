@@ -1,0 +1,18 @@
+{
+  "daily": "Dzienna",
+  "last_updated_at": "Ostatnia aktualizacja: {{val, datetime}}",
+  "leaderboard": "Tablica wyników",
+  "monthly": "Miesięczna",
+  "overall": "Całkowita",
+  "rank": "Miejsce",
+  "score": "Wynik",
+  "user": "Użytkownik",
+  "weekly": "Tygodniowa",
+  "prompt": "Podpowiedzi",
+  "reply": "Odpowiedzi",
+  "label": "Etykiety",
+  "view_all": "Zobacz wszystkie",
+  "top_5_contributors_today": "5 najlepszych kontrybutorów dzisiaj",
+  "previous": "Poprzedni",
+  "next": "Następny"
+}

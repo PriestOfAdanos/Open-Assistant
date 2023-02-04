@@ -1,0 +1,15 @@
+{
+  "blurb": "We believe we can create a revolution.",
+  "blurb1": "Tak jak Stable Diffusion pomogło stworzyć sztukę i obrazy w kompletnie nowy sposób, chcemy zmienić świat na lepsze dzięki niesamowitej konwersacyjnej sztucznej inteligencji.",
+  "description": "Konwersacyjna AI wszystkich. Projekt open source, którego celem jest stworzenie wielkoskalowego modelu językowego zdolnego do naturalnej rozmowy opartego na architektórze GPT kierowany przez LAION i kontrybutorów na całym świecie.",
+  "faq_items": {
+    "q0": "na jakim etapie jest projekt?",
+    "a0": "Jesteśmy we wczesnym etapie prac, opierając się na ustanowionej nauce w aplikowaniu nauczania wzmocnionego wielkoskalowych modeli językowych.",
+    "q1": "Kto tworzy Open Assistant?",
+    "a1": "Open Assistant to projekt zorganizowany przez LAION i osoby na całym świecie zainteresowane w demokratyzacji tej technologii."
+  },
+  "faq_title": "Często zadawane pytania",
+  "join_us_description": "Każdy projekt open source istnieje dzięki kontrybutorom takim jak ty. Open source opiera się na przekonaniu, że jeśli współpracujemy, możemy wspólnie stworzyć nową wiedzę i technologię dla dobra ludzkości. Przekonaliśmy cię? Znajdź nas tutaj:",
+  "join_us_title": "Dołącz do nas",
+  "subtitle": "Konwersacyjne AI dla wszystkich."
+}
